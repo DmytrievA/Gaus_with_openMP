@@ -1,0 +1,1 @@
+# Gaus_with_openMP
